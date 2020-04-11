@@ -1,0 +1,65 @@
+[
+    {
+        "_id": "5e90831e0f27d02f3ef8167c",
+        "timestamp": "2020-06-10T14:30:54.000Z",
+        "temperature": 11.67,
+        "__v": 0,
+        "city": "Sfax"
+    },
+    {
+        "_id": "5e9083c0e650df30fad5c274",
+        "timestamp": "2020-04-10T14:33:36.000Z",
+        "temperature": 11.66,
+        "__v": 0,
+        "city": "Sfax"
+    },
+    {
+        "_id": "5e908431a443bb3225ce8f99",
+        "timestamp": "2020-04-10T14:35:29.000Z",
+        "temperature": 11.67,
+        "__v": 0,
+        "city": "Sfax"
+    },
+    {
+        "_id": "5e908542754d863298539908",
+        "city": "Covilha",
+        "timestamp": "2020-04-10T14:40:02.000Z",
+        "temperature": 16.66,
+        "__v": 0
+    },
+    {
+        "_id": "5e908e79f05fd94bad058e15",
+        "city": "Covilha",
+        "timestamp": "2020-04-10T15:19:21.000Z",
+        "temperature": 16.67,
+        "__v": 0
+    },
+    {
+        "_id": "5e908ecff05fd94bad058e16",
+        "city": "Covilha",
+        "timestamp": "2020-04-10T15:20:47.000Z",
+        "temperature": 16.67,
+        "__v": 0
+    },
+    {
+        "_id": "5e9141745d7e565dbeecfbfb",
+        "city": "Covilha",
+        "timestamp": "2020-04-11T04:03:00.000Z",
+        "temperature": 10.61,
+        "__v": 0
+    },
+    {
+        "_id": "5e9146f9592f637b81e0fe44",
+        "city": "Covilha",
+        "timestamp": "2020-04-11T04:26:33.000Z",
+        "temperature": 6.33,
+        "__v": 0
+    },
+    {
+        "_id": "5e914b997d042a0b846a3393",
+        "city": "Covilha",
+        "timestamp": "2020-04-11T04:46:17.000Z",
+        "temperature": 9.96,
+        "__v": 0
+    }
+]

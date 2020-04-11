@@ -1,0 +1,26 @@
+{
+  "name": "vopak",
+  "version": "0.1.0",
+  "description": "Vopak Code Assessment",
+  "main": "app.js",
+  "scripts": {
+    "prod": "pm2 start app.js --name vopak",
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "vopak"
+  ],
+  "author": "Meysam Azad <MeysamAzad81@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.7",
+    "node-fetch": "^2.6.0",
+    "pm2": "^4.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
