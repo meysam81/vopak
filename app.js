@@ -4,10 +4,10 @@ const express = require('express');
 require('dotenv').config()
 
 
-const config = require('./config');
-const middleware = require('./middleware');
-const routes = require('./routes');
-const db = require('./db');
+const config = require('./src/config');
+const middleware = require('./src/middleware');
+const routes = require('./src/routes');
+const db = require('./src/db');
 
 
 app = express();
